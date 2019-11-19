@@ -1,5 +1,5 @@
 # RPN-calculator
-Since the operator comes after the operands, this algorithm utilizes the stack data structure. 
+Since the operator comes after the operands, this algorithm utilizes the stack data structure. Written in Python.
 
 Examples:
 * 2 3 + = 5
