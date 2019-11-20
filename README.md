@@ -15,5 +15,5 @@ Operators:
 
 Commands:
 * Summation (sum)
-* Rotate (rot)
+* Rotation (rot)
 * Copy (copy)
